@@ -41,5 +41,4 @@
 ![image](https://github.com/Siddhartha082/CICD_Variable_Demo-test-Gitlab_User_Name_Project_Name/assets/110781138/afa1b194-308d-45e1-b7da-12d834be278c)
 
 
-# Save + Commit
 

@@ -1,0 +1,7 @@
+variables:
+  Name: "CloudChamp"
+  Message: "Please"
+
+demo:
+    script:
+        - echo "Hey $Message subscribe to $Name"
